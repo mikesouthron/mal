@@ -4,6 +4,8 @@
 #include <readline/readline.h>
 #include <readline/history.h>
 
+#include "reader.h"
+
 char* read_exp(char* p) {
   return p;
 }
